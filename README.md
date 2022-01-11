@@ -13,8 +13,7 @@ I'm currently building my new website called InformOurWorld. It is on the way �
 
 [GitHub](https://github.com/subhransuindia/)
 
-[Subhransu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhransuindia&show_icons=true&theme=radical)
-
+[![Subhransu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhransuindia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 subhransuindia/subhransuindia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
