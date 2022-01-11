@@ -7,7 +7,7 @@
 <h2 align="center">Enjoyed my websites?</h2>
 <h1 align="center"><a href="https://inform-our-world.github.io/">Inform Our World (My Website)</a></h1>
 <a  href="https://github.com/subhransuindia/"><p align="center">GitHub</p></a>
-
+[![Subhransu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhransuindia)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
